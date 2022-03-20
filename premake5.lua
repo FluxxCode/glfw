@@ -42,6 +42,8 @@ project "glfw"
             "src/posix_thread.h",
             "src/posix_thread.c",
             "src/posix_module.c",
+            "src/posix_poll.h",
+            "src/posix_poll.c",
             "src/x11_platform.h",
             "src/xkb_unicode.h",
             "src/xkb_unicode.c",
